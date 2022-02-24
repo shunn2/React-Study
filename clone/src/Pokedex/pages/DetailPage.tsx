@@ -8,7 +8,7 @@ import About from "../components/About";
 import Stats from "../components/Stats";
 import Evolution from "../components/Evolution";
 
-import { PokemonResponse } from "../types";
+import { PokemonResponse, SpeciesResponse } from "../types";
 import usePokemonQuery from "../hooks/usePokemonQuery";
 import useSpeciesQuery from "../hooks/useSpecies";
 

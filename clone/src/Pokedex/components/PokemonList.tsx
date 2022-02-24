@@ -30,6 +30,7 @@ const ListItem = styled.li`
   & + & {
     margin-top: 18px;
   }
+  cursor: pointer;
 `;
 
 const List = styled.ul`
