@@ -1,7 +1,0 @@
-@import '~reset-css';
-
-@import-normalize;
-
-html, body {
-    font-family: sans-serif, serif, "Apple SD Gothic Neo";
-}
